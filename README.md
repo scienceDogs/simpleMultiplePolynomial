@@ -16,4 +16,5 @@ The dataset and the data dictionary are included in the folder called data.
 
 * How would you explain SSE?
 * How would you explain your model?
+* Can you explain polynomial regression to an audience w/o using the term polynomial or regression?
 
